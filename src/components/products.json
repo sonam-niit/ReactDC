@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"Pen",
+        "price":10,
+        "rating":4.7,
+        "category":"stationary"
+    },
+    {
+        "id":2,
+        "name":"Pencil",
+        "price":5,
+        "rating":4.5,
+        "category":"stationary"
+    },
+    {
+        "id":3,
+        "name":"Eraset Set of 3",
+        "price":15,
+        "rating":4.4,
+        "category":"stationary"
+    },
+    {
+        "id":4,
+        "name":"HeadSet",
+        "price":1500,
+        "rating":4.8,
+        "category":"electronics"
+    }
+]
